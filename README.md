@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
 
-<!--
-**leseixas/leseixas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Hi there 👋 - **I'm Leandro Seixas**
 
-Here are some ideas to get you started:
+<br>
+<b>Research Fellow</b> at Instituto de Física Teórica, UNESP 🇧🇷
+<br>
+➜ <a href="https://seixas.tech/">seixas.tech</a>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+</div>
+
+## Main projects
+
+* 🔬 [quasigraph](https://github.com/leseixas/quasigraph) - Descriptor to study materials with machine learning algorithms.
+* 🌡️ [blendpy](https://github.com/leseixas/blendpy) - Computational tool to investigate thermodynamic models of alloys.
