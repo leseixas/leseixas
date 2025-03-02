@@ -1,14 +1,13 @@
 <div align="center">
 
-## Hi there 👋 - **I'm Leandro Seixas**
+## **Leandro Seixas, PhD**
 
-Theoretical and Computational Physicist working in materials science. Developing novel materials with a focus on renewable energy. Creating computational tools to study materials using machine learning algorithms and thermodynamic models.
+Exploring alloy formation using artificial intelligence and computational physics.
 
 <br>
 <b>Research Fellow</b> at Instituto de Física Teórica, UNESP 🇧🇷
 <br>
 ➜ <a href="https://seixas.tech/">seixas.tech</a>
-
 </div>
 
 ## Main projects
