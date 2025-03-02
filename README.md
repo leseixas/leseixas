@@ -16,7 +16,7 @@ Understanding alloy formation with artificial intelligence and computational phy
 
 | <a href="https://github.com/leseixas/quasigraph"><img src="https://raw.githubusercontent.com/leseixas/quasigraph/refs/heads/main/resources/logo.png" alt="quasigraph" height="50px"></a> | <a href="https://github.com/leseixas/blendpy"><img src="https://raw.githubusercontent.com/leseixas/blendpy/refs/heads/main/logo.png" alt="blendpy" height="50px"></a> |
 |:---:|:---:|
-| Descriptor to study materials with machine learning algorithms | Computational tool to investigate thermodynamic models of alloys |
+| Graph-like chemical and geometric descriptor toolkit for studying materials with machine learning models. | Computational tool to investigate thermodynamic models of alloys |
 
 </div>
 
