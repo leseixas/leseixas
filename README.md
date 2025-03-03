@@ -16,8 +16,8 @@ Understanding alloy formation with artificial intelligence and computational phy
 
 <table>
     <tr>
-        <td style="width: 300px;"></td>
-        <td style="width: 300px;"></td>
+        <td style="width: 300px;">Project</td>
+        <td style="width: 300px;">Description</td>
     </tr>
     <tr>
         <td><a href="https://github.com/leseixas/quasigraph"><img src="https://raw.githubusercontent.com/leseixas/quasigraph/refs/heads/main/resources/logo.png" alt="quasigraph" height="50px"></a></td>
