@@ -6,7 +6,8 @@
 
 **Why can materials mix to form alloys?**
 
-Understanding alloy formation with artificial intelligence, quantum mechanics, and a lot of computational physics.
+<!-- Understanding alloy formation with artificial intelligence, quantum mechanics, and a lot of computational physics. -->
+To answer this and understand how alloys are formed, I am using artificial intelligence, quantum mechanics, and a lot of computational physics.
 
 <div align="center">
 <br>
@@ -22,7 +23,7 @@ Understanding alloy formation with artificial intelligence, quantum mechanics, a
 
 <table>
     <tr>
-        <td style="width: 400px;">Project</td>
+        <td style="width: 500px;">Project</td>
         <td style="width: 300px;">Description</td>
     </tr>
     <tr>
