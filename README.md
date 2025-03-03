@@ -2,7 +2,7 @@
 
 ## **Leandro Seixas, PhD**
 
-Understanding alloy formation with artificial intelligence and computational physics.
+Understanding alloy formation with artificial intelligence and quantum mechanics.
 
 <br>
 <b>Research Fellow</b> at Instituto de Física Teórica, UNESP 🇧🇷
