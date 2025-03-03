@@ -22,7 +22,7 @@ Understanding alloy formation with artificial intelligence, quantum mechanics, a
 
 <table>
     <tr>
-        <td style="width: 300px;">Project</td>
+        <td style="width: 400px;">Project</td>
         <td style="width: 300px;">Description</td>
     </tr>
     <tr>
