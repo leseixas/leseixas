@@ -2,12 +2,18 @@
 
 ## **Leandro Seixas, PhD**
 
+</div>
+
+**Why can materials mix to form alloys?**
+
 Understanding alloy formation with artificial intelligence, quantum mechanics, and a lot of computational physics.
 
+<div align="center">
 <br>
 <b>Research Fellow</b> at Instituto de Física Teórica, UNESP 🇧🇷
 <br>
-➜ <a href="https://seixas.tech/">seixas.tech</a>
+➜ <a href="https://seixas.tech/">seixas.tech</a></br>
+➜ <a href="https://www.linkedin.com/in/seixastech/">LinkedIn</a>
 </div>
 
 ## Main projects
