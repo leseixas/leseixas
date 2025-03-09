@@ -4,10 +4,10 @@
 
 </div>
 
-**Why can materials mix to form alloys?**
+<!-- **Why can materials mix to form alloys?** -->
 
-<!-- Understanding alloy formation with artificial intelligence, quantum mechanics, and a lot of computational physics. -->
-To answer this and understand how alloys are formed, I am using artificial intelligence, quantum mechanics, and a lot of computational physics.
+Understanding alloy formation with artificial intelligence, quantum mechanics, and a lot of computational physics.
+<!-- To answer this and understand how alloys are formed, I am using artificial intelligence, quantum mechanics, and a lot of computational physics. -->
 
 <div align="center">
 <br>
