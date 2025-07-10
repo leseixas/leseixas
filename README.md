@@ -5,18 +5,18 @@
 </div>
 
 
-Investigating alloys with artificial intelligence, *ab initio* simulations, and thermodynamics.
+Investigating alloys with artificial intelligence (🤖), *ab initio* simulations (💻), and thermodynamics (🌡️).
 
 
-<div align="center">
+<div align="left">
 <br>
 <b>Research Fellow</b> at Instituto de Física Teórica, UNESP 🇧🇷
 <br>
- ➤ <a href="https://seixas.tech/">seixas.tech</a></br>
+ ➤ <a href="https://seixas.tech/"> seixas.tech</a></br>
  ➤ <a href="https://www.linkedin.com/in/seixastech/">LinkedIn</a>
 </div>
 
-## Main projects
+<!-- ## Main projects
 
 <div align="center">
 
@@ -33,11 +33,8 @@ Investigating alloys with artificial intelligence, *ab initio* simulations, and 
         <td><a href="https://github.com/leseixas/blendpy"><img src="https://raw.githubusercontent.com/leseixas/blendpy/refs/heads/main/logo.png" alt="blendpy" style="max-height: 50px; height: auto; width: auto;"></td>
         <td>Computational toolkit for investigating thermodynamic models of alloys using first-principles calculations</td>
     </tr>
-    <!-- <tr>
-        <td><a href="https://github.com/leseixas/entropista"><img src="https://raw.githubusercontent.com/leseixas/entropista/refs/heads/main/logo.png" alt="entropista" height="50px"></a></td>
-        <td>A high-entropy alloy analysis suite, leveraging Monte Carlo simulations and local order metrics to uncover atomic-scale insights</td>
-    </tr> -->
+
 </table>
 
-</div>
+</div> -->
 
