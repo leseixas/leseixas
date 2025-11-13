@@ -5,12 +5,12 @@
 </div>
 
 
-Investigating alloys with artificial intelligence (🤖), *ab initio* simulations (💻), and thermodynamics (🌡️).
+Investigating alloys with artificial intelligence, *ab initio* simulations, and thermodynamics.
 
 
 <div align="left">
 <br>
-<b>Research Fellow</b> at Instituto de Física Teórica, UNESP 🇧🇷
+<b>Research Fellow</b> at Instituto de Física Teórica, UNESP
 <br>
  ➤ <a href="https://seixas.tech/"> seixas.tech</a></br>
  ➤ <a href="https://www.linkedin.com/in/seixastech/">LinkedIn</a>
