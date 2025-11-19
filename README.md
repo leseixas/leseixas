@@ -5,7 +5,7 @@
 </div>
 
 
-Investigating alloys with artificial intelligence, *ab initio* simulations, and thermodynamics.
+Investigating 2D materials and alloys with *ab initio* simulations, thermodynamics, and machine learning.
 
 
 <div align="left">
