@@ -1,14 +1,7 @@
 <div align="center">
 
-## **Leandro Seixas**
+| [<img src="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-research.png" width="200">](https://github.com/seixas-research) | [<img src="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-solutions.png" width="200">](https://github.com/seixas-solutions) | [<img src="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-fun.png" width="200">](hhttps://github.com/seixas-fun) |
+| :---: | :---: | :---: |
 
 </div>
-
-
-<!-- | [<img src="URL_DO_LOGO_1" width="150">](https://github.com/organizacao1) | [<img src="URL_DO_LOGO_2" width="150">](https://github.com/organizacao2) | [<img src="URL_DO_LOGO_3" width="150">](https://github.com/organizacao3) |
-| :---: | :---: | :---: | -->
-
-
-</div>
-
 
