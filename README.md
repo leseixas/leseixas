@@ -2,7 +2,9 @@ Hi, I’m Leandro Seixas Rocha, PhD. 👋🏻
 
 I am a **Researcher in Theoretical and Computational Physics**, specializing in **atomistic simulations of materials**. This is my personal GitHub profile, which hosts only this landing page and my [online CV](https://leseixas.github.io).
 
-### Organizations 
+<br>
+
+## Organizations 
 The projects I have created and developed are hosted within the following organizations:
 
 <div align="center">
