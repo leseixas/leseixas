@@ -6,7 +6,7 @@ Computational Materials Scientist and ML Engineer dedicated to accelerating mate
 
 ## Profiles
 
-GitHub pages: [leseixas.github.io](https://leseixas.github.io)
+GitHub pages: [leseixas.github.io](https://leseixas.github.io) (under development)
 
 <br>
 
