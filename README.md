@@ -1,10 +1,16 @@
-Hi, I’m Leandro Seixas Rocha, PhD. 👋🏻
+# Leandro Seixas Rocha, PhD
 
-**Computational materials scientist** with large experience in *ab initio* simulations and machine learning for large-scale atomistic modeling.
+Computational Materials Scientist and ML Engineer dedicated to accelerating materials discovery for the energy transition.
 
-## CV
-GitHub pages: <a href="https://leseixas.github.io">leseixas.github.io</a>
+<br>
 
+<span style="font-size: 2em;">
+<center>
+<a href="https://leseixas.github.io">leseixas.github.io</a>
+</center>
+</span>
+
+<br>
 
 ## Organizations 
 The projects I have created and developed are hosted within the following organizations:
