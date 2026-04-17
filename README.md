@@ -8,6 +8,7 @@ Computational Materials Scientist and ML Engineer dedicated to accelerating mate
 
 * GitHub pages: [leseixas.github.io](https://leseixas.github.io)
 * LinkedIn: [in/leandro-seixas-rocha](https://www.linkedin.com/in/leandro-seixas-rocha/)
+* ORCID: [0000-0001-7420-0708](https://orcid.org/0000-0001-7420-0708)
 
 <br>
 
@@ -23,5 +24,3 @@ The projects I have created and am developing are separated into the following c
 </div>
 
 ---
-
-<!-- **LinkedIn:** [Leandro Seixas Rocha](https://www.linkedin.com/in/leandro-seixas-rocha/) -->
