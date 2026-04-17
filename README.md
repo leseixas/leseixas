@@ -6,12 +6,13 @@ Computational Materials Scientist and ML Engineer dedicated to accelerating mate
 
 ## Profiles
 
-GitHub pages: [leseixas.github.io](https://leseixas.github.io) (under development)
+* GitHub pages: [leseixas.github.io](https://leseixas.github.io)
+* LinkedIn: [in/leandro-seixas-rocha](https://www.linkedin.com/in/leandro-seixas-rocha/)
 
 <br>
 
-## Organizations 
-The projects I have created and developed are hosted within the following organizations:
+## Projects 
+The projects I have created and am developing are separated into the following categories:
 
 <div align="center">
 
