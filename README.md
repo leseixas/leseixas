@@ -6,7 +6,7 @@
 
 
 <blockquote>
-Computational Materials Scientist and Machine Learning Engineer focused on accelerating materials discovery for the energy transition. Brings over 10 years of research experience and more than 9 years of teaching experience.
+Computational Materials Scientist and Machine Learning Engineer focused on accelerating materials discovery for the energy transition. Brings over 10 years of research experience and more than 9 years of teaching experience. In his spare time, he plays old games and tries to develop new ones.
 </blockquote>
 
 <br>
@@ -35,5 +35,3 @@ The projects I have created and am developing are separated into the following c
 | 🎓 Edu-Resources | 🔬 Academic R&D | 🤖 ML Engineering | 🎮 Game Dev |
 
 </div>
-
----
