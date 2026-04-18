@@ -1,8 +1,6 @@
 # Leandro Seixas Rocha, PhD
 
-
-<b><center>Physics + Machine Learning + Software Development</center></b>
-</br>
+<p align="center"><strong>Physics + Machine Learning + Software Development</strong></p>
 
 </br>
 
