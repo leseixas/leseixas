@@ -1,10 +1,11 @@
 # Leandro Seixas Rocha, PhD
 
-<center>
-<b>Physics + Machine Learning + Software Development</b>
-</center>
+
+<b><center>Physics + Machine Learning + Software Development</center></b>
+</br>
 
 </br>
+
 
 <blockquote>
 Computational Materials Scientist and Machine Learning Engineer focused on accelerating materials discovery for the energy transition. Brings over 10 years of research experience and more than 9 years of teaching experience.
