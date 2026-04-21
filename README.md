@@ -18,7 +18,7 @@ Computational Materials Scientist and Machine Learning Engineer focused on accel
 * GitHub pages: [leseixas.github.io](https://leseixas.github.io)
 * LinkedIn: [in/leandro-seixas-rocha](https://www.linkedin.com/in/leandro-seixas-rocha/)
 
-* Academic profiles and CVs
+* **Academic profiles and CVs**
     - ORCID: [0000-0001-7420-0708](https://orcid.org/0000-0001-7420-0708)
     - ScopusID: [35082635200](https://www.scopus.com/authid/detail.uri?authorId=35082635200)
     - Google Scholar: [Leandro Seixas Rocha](https://scholar.google.com/citations?user=1p_9ZzEAAAAJ)
