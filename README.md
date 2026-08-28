@@ -19,16 +19,16 @@ Computational Materials Scientist and Machine Learning Engineer focused on accel
 
 <div align="center">
 
-![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)
-![XGBoost](https://img.shields.io/badge/XGBoost-2C7FB8?style=flat-square)
-![PySR](https://img.shields.io/badge/PySR-4B8BBE?style=flat-square)
-![VASP](https://img.shields.io/badge/VASP-555555?style=flat-square)
-![SIESTA](https://img.shields.io/badge/SIESTA-555555?style=flat-square)
-![Quantum ESPRESSO](https://img.shields.io/badge/Quantum%20ESPRESSO-555555?style=flat-square)
-![GPAW](https://img.shields.io/badge/GPAW-555555?style=flat-square)
+[![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
+[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org)
+[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
+[![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
+[![XGBoost](https://img.shields.io/badge/XGBoost-2C7FB8?style=flat-square)](https://xgboost.readthedocs.io)
+[![PySR](https://img.shields.io/badge/PySR-4B8BBE?style=flat-square)](https://github.com/astroautomata/PySR)
+[![VASP](https://img.shields.io/badge/VASP-555555?style=flat-square)](https://www.vasp.at/)
+[![SIESTA](https://img.shields.io/badge/SIESTA-555555?style=flat-square)](https://siesta-project.org)
+[![Quantum ESPRESSO](https://img.shields.io/badge/Quantum%20ESPRESSO-555555?style=flat-square)](https://www.quantum-espresso.org)
+[![GPAW](https://img.shields.io/badge/GPAW-555555?style=flat-square)](https://gpaw.readthedocs.io)
 
 </div>
 
