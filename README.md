@@ -19,16 +19,16 @@ Computational Materials Scientist and Machine Learning Engineer focused on accel
 
 <div align="center">
 
-[![Python](https://img.shields.io/badge/Python-306998?style=flat-square&logo=python&logoColor=white)](https://www.python.org)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)](https://isocpp.org)
-[![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)](https://pytorch.org)
-[![scikit--learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white)](https://scikit-learn.org)
-[![XGBoost](https://img.shields.io/badge/XGBoost-2C7FB8?style=flat-square)](https://xgboost.readthedocs.io)
-[![PySR](https://img.shields.io/badge/PySR-4B8BBE?style=flat-square)](https://github.com/astroautomata/PySR)
-[![VASP](https://img.shields.io/badge/VASP-555555?style=flat-square)](https://www.vasp.at/)
-[![SIESTA](https://img.shields.io/badge/SIESTA-555555?style=flat-square)](https://siesta-project.org)
-[![Quantum ESPRESSO](https://img.shields.io/badge/Quantum%20ESPRESSO-555555?style=flat-square)](https://www.quantum-espresso.org)
-[![GPAW](https://img.shields.io/badge/GPAW-555555?style=flat-square)](https://gpaw.readthedocs.io)
+[![Python](https://img.shields.io/badge/Python-Language-306998?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+[![C++](https://img.shields.io/badge/C%2B%2B-Language-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+[![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
+[![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
+[![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-2C7FB8?style=for-the-badge)](https://xgboost.readthedocs.io/)
+[![PySR](https://img.shields.io/badge/PySR-Symbolic%20Regression-4B8BBE?style=for-the-badge)](https://github.com/astroautomata/PySR)
+[![VASP](https://img.shields.io/badge/VASP-DFT-3B3F8C?style=for-the-badge)](https://www.vasp.at/)
+[![SIESTA](https://img.shields.io/badge/SIESTA-DFT-3B3F8C?style=for-the-badge)](https://siesta-project.org/)
+[![Quantum ESPRESSO](https://img.shields.io/badge/Quantum%20ESPRESSO-DFT-3B3F8C?style=for-the-badge)](https://www.quantum-espresso.org/)
+[![GPAW](https://img.shields.io/badge/GPAW-DFT-3B3F8C?style=for-the-badge)](https://gpaw.readthedocs.io/)
 
 </div>
 
