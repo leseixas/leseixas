@@ -19,12 +19,20 @@ Computational Materials Scientist and Machine Learning Engineer focused on accel
 
 <div align="center">
 
+**Programming languages**
+
 [![Python](https://img.shields.io/badge/Python-Language-306998?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
 [![C++](https://img.shields.io/badge/C%2B%2B-Language-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
+
+**Machine learning**
+
 [![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
 [![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
 [![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-2C7FB8?style=for-the-badge)](https://xgboost.readthedocs.io/)
 [![PySR](https://img.shields.io/badge/PySR-Symbolic%20Regression-4B8BBE?style=for-the-badge)](https://github.com/astroautomata/PySR)
+
+**DFT**
+
 [![VASP](https://img.shields.io/badge/VASP-DFT-3B3F8C?style=for-the-badge)](https://www.vasp.at/)
 [![SIESTA](https://img.shields.io/badge/SIESTA-DFT-3B3F8C?style=for-the-badge)](https://siesta-project.org/)
 [![Quantum ESPRESSO](https://img.shields.io/badge/Quantum%20ESPRESSO-DFT-3B3F8C?style=for-the-badge)](https://www.quantum-espresso.org/)
