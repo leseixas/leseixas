@@ -8,39 +8,26 @@
 
 
 <blockquote>
-Computational Materials Scientist and Machine Learning Engineer focused on accelerating materials discovery for the energy transition. Brings over 10 years of research experience and more than 9 years of teaching experience. In his spare time, he plays old games and tries to develop new ones.
+Machine Learning Engineer & Researcher with a Ph.D. in Physics and 10+ years of international R&D experience (Brazil, US, Singapore). Specialized in AI for Science and Scientific Machine Learning (SciML), bridging deep learning (GNNs, Neural Operators) with physics-based modeling to accelerate large-scale simulations and high-throughput workflows. Proficient in Python, PyTorch, C++, and HPC environments, with a proven track record of designing open-source scientific software, deploying end-to-end ML pipelines, and leading multidisciplinary engineering and research initiatives.
 </blockquote>
-
-**Currently:** Working on materials discovery models with ML potentials and ML-based Orbital-Free DFT.
 
 <br>
 
-## Tech stack
+Python | C++ | PyTorch | scikit-learn | XGBoost | Optuna | Neural Operators | Interpretable ML | Symbolic regression | Machine Learning Interatomic Potentials (MLIP) | Graph Neural Networks (GNNs) | NumPy | SciPy | Pandas | PyPI | GitHub | ASE | DFT | VASP | SIESTA | Quantum ESPRESSO | GPAW | ORCA | Linux | MPI | Slurm | HPC
+
+<br>
+
+
+## Projects 
+The projects I have created and am developing are separated into the following categories:
 
 <div align="center">
 
-**Programming languages**
-
-[![Python](https://img.shields.io/badge/Python-Language-306998?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
-[![C++](https://img.shields.io/badge/C%2B%2B-Language-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)](https://isocpp.org/)
-
-**Machine learning**
-
-[![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)](https://pytorch.org/)
-[![scikit-learn](https://img.shields.io/badge/scikit--learn-Machine%20Learning-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)](https://scikit-learn.org/)
-[![XGBoost](https://img.shields.io/badge/XGBoost-Gradient%20Boosting-2C7FB8?style=for-the-badge)](https://xgboost.readthedocs.io/)
-[![PySR](https://img.shields.io/badge/PySR-Symbolic%20Regression-4B8BBE?style=for-the-badge)](https://github.com/astroautomata/PySR)
-
-**DFT**
-
-[![VASP](https://img.shields.io/badge/VASP-DFT-3B3F8C?style=for-the-badge)](https://www.vasp.at/)
-[![SIESTA](https://img.shields.io/badge/SIESTA-DFT-3B3F8C?style=for-the-badge)](https://siesta-project.org/)
-[![Quantum ESPRESSO](https://img.shields.io/badge/Quantum%20ESPRESSO-DFT-3B3F8C?style=for-the-badge)](https://www.quantum-espresso.org/)
-[![GPAW](https://img.shields.io/badge/GPAW-DFT-3B3F8C?style=for-the-badge)](https://gpaw.readthedocs.io/)
+| [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-teaching_dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-teaching_light.png"><img src="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-teaching_light.png" width="150" alt="Seixas Teaching"></picture>](https://github.com/seixas-teaching) | [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-research_dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-research_light.png"><img src="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-research_light.png" width="150" alt="Seixas Research"></picture>](https://github.com/seixas-research) | [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-solutions_dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-solutions_light.png"><img src="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-solutions_light.png" width="150" alt="Seixas Solutions"></picture>](https://github.com/seixas-solutions) | [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-fun_dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-fun_light.png"><img src="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-fun_light.png" width="150" alt="Seixas Fun"></picture>](https://github.com/seixas-fun) |
+| :---: | :---: | :---: | :---: |
+| Courses and teaching materials | Research code and simulations | Consulting and applied projects | Games and personal projects |
 
 </div>
-
-<br>
 
 ## Profiles
 
@@ -56,14 +43,3 @@ Computational Materials Scientist and Machine Learning Engineer focused on accel
     - LattesCV: [Leandro Seixas Rocha](http://lattes.cnpq.br/9575661316014079)
 
 <br>
-
-## Projects 
-The projects I have created and am developing are separated into the following categories:
-
-<div align="center">
-
-| [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-teaching_dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-teaching_light.png"><img src="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-teaching_light.png" width="150" alt="Seixas Teaching"></picture>](https://github.com/seixas-teaching) | [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-research_dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-research_light.png"><img src="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-research_light.png" width="150" alt="Seixas Research"></picture>](https://github.com/seixas-research) | [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-solutions_dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-solutions_light.png"><img src="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-solutions_light.png" width="150" alt="Seixas Solutions"></picture>](https://github.com/seixas-solutions) | [<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-fun_dark.png"><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-fun_light.png"><img src="https://raw.githubusercontent.com/leseixas/leseixas/refs/heads/main/logos/seixas-fun_light.png" width="150" alt="Seixas Fun"></picture>](https://github.com/seixas-fun) |
-| :---: | :---: | :---: | :---: |
-| Courses and teaching materials | Research code and simulations | Consulting and applied projects | Games and personal projects |
-
-</div>
