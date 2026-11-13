@@ -32,7 +32,6 @@ The projects I have created and am developing are separated into the following c
 ## Profiles
 
 * Website: [seixas.dev](https://seixas.dev)
-* GitHub pages: [leseixas.github.io](https://leseixas.github.io)
 * LinkedIn: [in/leandro-seixas-rocha](https://www.linkedin.com/in/leandro-seixas-rocha/)
 
 * **Academic profiles and CVs**
